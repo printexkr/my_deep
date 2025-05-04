@@ -1,1 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
+# Environment
+.env
+venv/
+
+# Training data
+models/trained/
+*.h5
+*.keras
+
+# System
+.DS_Store
+Thumbs.db
